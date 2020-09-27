@@ -1,0 +1,2 @@
+This the first chapter of text, here we will do a git exercise to commit code and use source repository work.
+The rain in spain falls mainly in the plain.
